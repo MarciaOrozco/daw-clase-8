@@ -34,7 +34,7 @@ console.log(array.reverse());
 // f.
 console.log(array.join("-"));
 
-// 7.
+// g.
 var array = [];
 array.push(
   "Enero",
